@@ -1,0 +1,27 @@
+fileFormatVersion: 2
+guid: ca04ffb884fa9db4ba0e23b1b221e567
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Arson Pro
+  fontNames:
+  - Arson Pro
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 56b8e752e5bf8ae4f891684a156037ae, type: 3}
+  - {fileID: 12800000, guid: 4cfcbd9668e443c49bcedeecf4bc0fab, type: 3}
+  - {fileID: 12800000, guid: a0ea0af840d426b4db932ce3283987ee, type: 3}
+  - {fileID: 12800000, guid: 0a275cfa43aec834eb4211744667b152, type: 3}
+  - {fileID: 12800000, guid: 9f0bf6ff11219574f8fce328460f9234, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
